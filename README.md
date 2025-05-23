@@ -1,6 +1,8 @@
 # hello-world
 Este repositorio es para practicar el flujo de GitHub
+
 🚀 Bienvenido a mi perfil de GitHub
+
 📌 Sobre mí
 Hola, soy Mario, un entusiasta del desarrollo y la inteligencia artificial. Me apasiona la creación de herramientas que optimicen la interacción entre humanos y tecnología, con especial enfoque en la accesibilidad y la eficiencia.
 
